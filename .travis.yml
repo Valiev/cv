@@ -1,0 +1,12 @@
+language: ruby
+
+services:
+  - docker
+
+before_install:
+  - docker build -t markdown_pdf .
+  - docker ps -a
+
+script:
+  - docker run -v $(pwd):/workdir markdown_pdf README.md -o cv.pdf
+
