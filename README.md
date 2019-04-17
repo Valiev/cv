@@ -98,6 +98,6 @@ Graduated from Moscow State University with degree in Math and Applied Math.
 ## Useful links
 
 * CV: [https://github.com/Valiev/cv](https://github.com/Valiev/cv)
-* GitHub pet project with almost 50 ★: [https://github.com/Valiev/almostontop](https://github.com/Valiev/almostontop)
+* GitHub pet project with almost 50 stars: [https://github.com/Valiev/almostontop](https://github.com/Valiev/almostontop)
 * `Vim` lover: [https://github.com/Valiev/config/blob/master/.vimrc](https://github.com/Valiev/config/blob/master/.vimrc )
 * Auto-generated documentation fan: [https://github.com/Valiev/config/blob/master/docs/vimrc.md](https://github.com/Valiev/config/blob/master/docs/vimrc.md)
