@@ -58,7 +58,7 @@ Terrible at doing the same things twice manually.
 * `AWS`
 
 
-### SQA Automation
+### SQA Automation Engineer
 
 **Align Technology**
 *September 2012 - March 2013*
@@ -81,7 +81,7 @@ as the following:
 * `Git`, `SVN`
 
 
-### QA Automated
+### QA Automation Engineer
 **Parallels**
 *November 2009 - September 2012*
 
