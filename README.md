@@ -18,6 +18,7 @@ Terrible at doing the same things twice manually.
 *February 2018 - Present*
 
 **Main responsibilities:**
+
 * Team growth
 * Team development
 * Hiring
@@ -29,6 +30,7 @@ Terrible at doing the same things twice manually.
 
 
 **Main activities:**
+
 * Coordinate with Dev and SQA teams
 * Point of contact for Dev and Staging environment
 * Application deployment automation with `Chef`
@@ -47,6 +49,7 @@ Terrible at doing the same things twice manually.
 
 
 **Technologies:**
+
 * `Bash`, `Python`, `Ruby`
 * `Git`
 * `Chef`
@@ -73,6 +76,7 @@ as the following:
 
 
 **Technologies:**
+
 * `Bash`, `Python`, `Batch`
 * `Git`, `SVN`
 
@@ -82,10 +86,12 @@ as the following:
 *November 2009 - September 2012*
 
 **Main activities:**
+
 * Automated testing for company products
 * Maintain in-house `python`-based QA framework
 
 **Technologies:**
+
 * `Bash`, `Python`
 * `Git`
 
