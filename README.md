@@ -23,6 +23,8 @@ Short introduction / Summary
 
 
 **Main activities:**
+* Coordinate with Dev and SQA teams
+* Point of contact for Dev and Staging environment
 * Application deployment automation with `Chef`
     * cookbooks for application deployment, upgrade and configuration
     * auxiliary `ruby`-based libraries to work with `Bamboo`, `Artifactory`
@@ -30,6 +32,7 @@ Short introduction / Summary
 * Application deployment migration to `Docker` (and `Rancher` 1.x) for
     Linux-based applications
 * Migration to Cloud (AWS)
+* SQA Environment build out and maintenance
 * Infrastructure automation, `IaaC`-approach:
   * `CloudFormation`
   * `Sparkleformation`
