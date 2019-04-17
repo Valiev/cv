@@ -46,6 +46,15 @@ Terrible at doing the same things twice manually.
   * a bit of `terraform`
 
 
+**Technologies:**
+* `Bash`, `Python`, `Ruby`
+* `Git`
+* `Chef`
+* `Terraform`
+* `Docker`, `Rancher`
+* `AWS`
+
+
 ### SQA Automation
 
 **Align Technology**
@@ -63,6 +72,11 @@ as the following:
 * `python`-base template engine
 
 
+**Technologies:**
+* `Bash`, `Python`, `Batch`
+* `Git`, `SVN`
+
+
 ### QA Automated
 **Parallels**
 *November 2009 - September 2012*
@@ -70,6 +84,10 @@ as the following:
 **Main activities:**
 * Automated testing for company products
 * Maintain in-house `python`-based QA framework
+
+**Technologies:**
+* `Bash`, `Python`
+* `Git`
 
 ## Education
 
