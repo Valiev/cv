@@ -40,8 +40,10 @@ Terrible at doing the same things twice manually.
 * Automated deployments via `Bamboo` build plans
 * Application deployment migration to `Docker` (and `Rancher` 1.x) for
     Linux-based applications
-* Migration to Cloud (AWS)
-* SQA Environment build out and maintenance
+* **Migration to Cloud (AWS):**
+    * set up initial migration to the Cloud
+    * rework existing deployment to Cloud-related ones
+* SQA Environment build out and maintenance (AWS)
 * Infrastructure automation, `IaaC`-approach:
   * `CloudFormation`
   * `Sparkleformation`
