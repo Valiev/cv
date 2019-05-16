@@ -32,7 +32,9 @@ Terrible at doing the same things twice manually.
 
 * Coordinate with Dev and SQA teams
 * Point of contact for Dev and Staging environment
-* Application deployment automation with `Chef`
+* **`Chef` deployment automation from scratch:**
+    * migrate existing automation
+    * new application adoption
     * cookbooks for application deployment, upgrade and configuration
     * auxiliary `ruby`-based libraries to work with `Bamboo`, `Artifactory`
 * Automated deployments via `Bamboo` build plans
