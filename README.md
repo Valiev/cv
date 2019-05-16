@@ -1,6 +1,6 @@
 # Sergey Valiev
 
-email: [svaliev+cv@gmail.com](mailto:svaliev+cv@gmail.com)
+email: [svaliev@gmail.com](mailto:svaliev@gmail.com)
 
 Really passionate about automation: scripting, infrastructure as a code,
 deployment.
@@ -8,7 +8,6 @@ Fond of AWS.
 Good at troubleshooting.
 Vim and python lover.
 Terrible at doing the same things twice manually.
-
 
 ## Work experience
 
