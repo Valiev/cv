@@ -23,12 +23,12 @@ phone: [`+79262331764`](tel:+79262331764)
 
 **Main activities:**
 
-*  Streamline and automate company on-boarding process:
+* Streamline and automate company on-boarding process:
   * Gather HR main pain-points in manual on-boarding routine
   * Design automated process to streamline on-boarding routine
   * Design back-end for `newcomer` - user-facing landing page
   * Develop back-end API and auxiliary tools for inter-component integration
-    (between `back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc)
+    (between `back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc.)
 
 * Support and maintain in-house `IaaC`-tools:
   * New features for in-house `python` + `terraform` automation
@@ -43,7 +43,7 @@ phone: [`+79262331764`](tel:+79262331764)
   * Transparent per cluster / per namespace / per pod spendings on `Kubernetes`
 
 
-**Main achievements**
+**Main achievements:**
 
 * Eliminated manuals steps in on-boarding routine and reduced overall timeline
   from days to minutes
