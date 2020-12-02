@@ -13,10 +13,56 @@ Terrible at doing the same things twice manually.
 
 ## Work experience
 
+### DevOps Engineer
+
+**Joom**
+*June 2019 - Present*
+
+
+**Main responsibilities:**
+
+* Maintain in-house deployment and tools for `IaaC` and automated `CM` approaches
+* Visualise company spendings on infrastructure
+* Streamline and automate company on-boarding routine
+* Transform configuration management in automated manner
+
+
+**Main activities:**
+
+*  Streamline and automate company on-boarding process:
+  * Gather HR main pain-points in manual on-boarding routine
+  * Design automated process to streamline on-boarding routine
+  * Design back-end for `newcomer` - user-facing landing page
+  * Develop back-end API and auxiliary tools for inter-component integration
+    (between `back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc)
+
+* Support and maintain in-house `IaaC`-tools:
+  * New features for in-house `python` + `terraform` automation
+  * Design and develop automation tool for `vault` policy / authorizations
+    configuration
+
+* Make company spendings on infrastructure transparent
+  * Adapt `Cost Usage Report` for company needs
+  * Coordinate tagging model for company `AWS` resource
+  * Develop `dashboard-as-a-code` automation for company spendings visualization
+  * Visualise major money consuming `AWS` resources with deep dives into details
+  * Transparent per cluster / per namespace / per pod spendings on `Kubernetes`
+
+
+**Main achievements**
+
+* Eliminated manuals steps in on-boarding routine and reduced overall timeline
+  from days to minutes
+* Developed handy dashboards for company spendings that allows
+  to notice unusual or bizarre spendings *at a glance*
+* Made re-usable automated dashboards for `Grafana` (no manual configuration)
+* Removed manual `vault` configuration, enabled change history in `git`
+
+
 ### DevOps Team Lead / Engineering Manager
 
 **Align Technology**
-*February 2018 - Present*
+*February 2018 - June 2019*
 
 **Main responsibilities:**
 
