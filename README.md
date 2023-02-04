@@ -7,11 +7,18 @@ phone: [`+79262331764`](tel:+79262331764)
 
 ## Work experience
 
+### DevOps Team Lead
+**Joom**
+*Dec, 2022 - now*
+
+**Main responsibilities:**
+* Manage talented team
+* Build short-term plans
+* Track projects
+
 ### DevOps Engineer
 
-**Joom**
-*June 2019 - Present*
-
+*June 2019 - Dec, 2022*
 
 **Main responsibilities:**
 
