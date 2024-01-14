@@ -37,14 +37,14 @@
 **Main responsibilities:**
 
 * Maintain in-house deployment and tools for `IaaC` and automated `CM` approaches
-* Visualise *company spendings on infrastructure*
+* Visualise **company spendings on infrastructure**
 * Streamline and automate company on-boarding routine
 
 **Main achievements:**
 
-* Streamline and *automate from scratch company on-boarding process* and implemented inter-component integration (`back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc.)
+* Streamline and **automate from scratch company on-boarding process** and implemented inter-component integration (`back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc.)
 * Support and maintain in-house `IaaC`-tools
-* Make *transparent company spendings on infrastructure* via Cost Dashboards
+* Make **transparent company spendings on infrastructure** via Cost Dashboards
 * Automation for visualization on infrastructure spendings (via AWS CUR)
 * Develop `dashboard-as-a-code` automation for company spendings visualization
 * Build continuous process for IaaC drift detection
@@ -65,8 +65,8 @@
 
 * Reorganize "devops" teams to make increase dev-teams velocity (and reduce TTM)
   * embed "devops" engineer into project teams
-* *Increased headcount* from 7 to 14 engineers
-* Raised *3 engineers to lead-level* positions
+* **Increased headcount** from 7 to 14 engineers
+* Raised **3 engineers to lead-level** positions
 
 
 ### DevOps Engineer / Senior DevOps Engineer
@@ -113,7 +113,7 @@ as the following:
 
 **MSU** *2003 - 2010*
 
-Graduated from *Moscow State University* with degree in *Math and Applied Math*.
+Graduated from **Moscow State University** with degree in **Math and Applied Math**.
 
 ## Useful links
 
