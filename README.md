@@ -13,7 +13,7 @@ phone: [`+79262331764`](tel:+79262331764)
 
 **Main responsibilities:**
 * Manage and keep motived talented team of 6 engineers
-* Build short/long-team team goals and plans
+* Build short/long-term team goals and plans
 * Track projects exectuion
 * Maintain hiring process
 
@@ -42,37 +42,13 @@ phone: [`+79262331764`](tel:+79262331764)
 * Streamline and automate company on-boarding routine
 * Transform configuration management in automated manner
 
-
-**Main activities:**
-
-* Streamline and automate company on-boarding process:
-  * Gather HR main pain-points in manual on-boarding routine
-  * Design automated process to streamline on-boarding routine
-  * Design back-end for `newcomer` - user-facing landing page
-  * Develop back-end API and auxiliary tools for inter-component integration
-    (between `back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc.)
-
-* Support and maintain in-house `IaaC`-tools:
-  * New features for in-house `python` + `terraform` automation
-  * Design and develop automation tool for `vault` policy / authorizations
-    configuration
-
-* Make company spendings on infrastructure transparent
-  * Adapt `Cost Usage Report` for company needs
-  * Coordinate tagging model for company `AWS` resource
-  * Develop `dashboard-as-a-code` automation for company spendings visualization
-  * Visualise major money consuming `AWS` resources with deep dives into details
-  * Transparent per cluster / per namespace / per pod spendings on `Kubernetes`
-
-
 **Main achievements:**
-
-* Eliminated manuals steps in on-boarding routine and reduced overall timeline
-  from days to minutes
-* Developed handy dashboards for company spendings that allows
-  to notice unusual or bizarre spendings *at a glance*
-* Made re-usable automated dashboards for `Grafana` (no manual configuration)
-* Removed manual `vault` configuration, enabled change history in `git`
+* Streamline and automate from scratch company on-boarding process and implemented inter-component integration (`back-end`, `BambooHR`, `Google Accounts`, `FreeIPA`, etc.)
+* Support and maintain in-house `IaaC`-tools
+* Automation for visualization on infrastrucutre spendings (via AWS CUR)
+* Make transparent company spendings on infrastructure via Cost Dashboards 
+* Develop `dashboard-as-a-code` automation for company spendings visualization
+* Build continuos process for IaC drift detection
 
 
 ### DevOps Team Lead / Engineering Manager
@@ -86,43 +62,29 @@ phone: [`+79262331764`](tel:+79262331764)
 * Team development
 * Hiring
 
+**Main achievements** 
+
+* Reorganize "devops" teams to make increase dev-teams velocity (and reduce TTM)
+  * embed "devops" engineer into project teams
+* Increased headcount from 7 to 14 engineers
+* Raised 3 engineers to leed positions
+  
+
 ### DevOps Engineer / Senior DevOps Engineer
 
 **Align Technology**
 *March 2013 - January 2018*
 
-
 **Main activities:**
 
 * Coordinate with Dev and SQA teams
 * Point of contact for Dev and Staging environment
-* **`Chef` deployment automation from scratch:**
-    * migrate existing automation
-    * new application adoption
-    * cookbooks for application deployment, upgrade and configuration
-    * auxiliary `ruby`-based libraries to work with `Bamboo`, `Artifactory`
+* `Chef` deployment automation from scratch
 * Automated deployments via `Bamboo` build plans
-* Application deployment migration to `Docker` (and `Rancher` 1.x) for
-    Linux-based applications
-* **Migration to Cloud (AWS):**
-    * set up initial migration to the Cloud
-    * rework existing deployment to Cloud-related ones
+* Application deployment migration to `Docker` (and `Rancher` 1.x) for Linux-based applications
+* Migration to Cloud (AWS)
 * SQA Environment build out and maintenance (AWS)
-* Infrastructure automation, `IaaC`-approach:
-  * `CloudFormation`
-  * `Sparkleformation`
-  * `StackMaster`
-  * a bit of `terraform`
-
-
-**Technologies:**
-
-* `Bash`, `Python`, `Ruby`
-* `Git`
-* `Chef`
-* `Terraform`
-* `Docker`, `Rancher`
-* `AWS`
+* Infrastructure automation, `IaaC`-approach
 
 
 ### SQA Automation Engineer
@@ -134,18 +96,9 @@ phone: [`+79262331764`](tel:+79262331764)
 
 Responsible for in-house `python` "swiss army knife" framework, which was used
 as the following:
-
 * `CMDB`
 * Deployment automation
-* Automation for application backup
 * Automation for application backup / restore
-* `python`-base template engine
-
-
-**Technologies:**
-
-* `Bash`, `Python`, `Batch`
-* `Git`, `SVN`
 
 
 ### QA Automation Engineer
@@ -157,11 +110,6 @@ as the following:
 * Automated testing for company products
 * Maintain in-house `python`-based QA framework
 
-**Technologies:**
-
-* `Bash`, `Python`
-* `Git`
-
 ## Education
 
 **MSU** *2003 - 2010*
@@ -171,6 +119,5 @@ Graduated from Moscow State University with degree in Math and Applied Math.
 ## Useful links
 
 * CV: [https://github.com/Valiev/cv](https://github.com/Valiev/cv)
-* GitHub pet project with more than 80 stars: [https://github.com/Valiev/almostontop](https://github.com/Valiev/almostontop)
-* `Vim` lover: [https://github.com/Valiev/config/blob/master/.vimrc](https://github.com/Valiev/config/blob/master/.vimrc )
+* GitHub pet project with more than 80+ stars: [https://github.com/Valiev/almostontop](https://github.com/Valiev/almostontop)
 * Auto-generated documentation fan: [https://github.com/Valiev/config/blob/master/docs/vimrc.md](https://github.com/Valiev/config/blob/master/docs/vimrc.md)
